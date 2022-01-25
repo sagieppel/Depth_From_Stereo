@@ -1,7 +1,7 @@
 # Depth_From_Stereo
 3D model from stereo Video
 
-## What you need:
+## What you need: OpenCV+Open3D
 
 pip install opencv-python
 
