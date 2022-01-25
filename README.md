@@ -8,8 +8,11 @@ pip install opencv-python
 pip install open3d
 
 ## How to use:
-Run the script. The depth map will appear on the screen next to the original video.
-At any point, press space to display 3D model of the frame as a points cloud.
+Run the script. 
+The depth map will appear on the screen next to the original video.
+
+At any point, press space to display 3D model of the frame as a point cloud.
+
 The camera position will appear as a red dot.
 
 ## How it works:
