@@ -1,4 +1,4 @@
-# Depth_From_Stereo
+# Depth From Stereo
 3D model from stereo Video
 
 ## What you need: OpenCV+Open3D
