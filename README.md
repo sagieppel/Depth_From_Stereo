@@ -12,9 +12,7 @@ Run the script.
 
 The depth map will appear on the screen next to the original video.
 
-At any point, press SPACE to display 3D model of the frame as a point cloud.
-
-The camera position will appear as a red dot.
+At any point, press SPACE to display 3D model of the frame as a point cloud. The camera position will appear as a red dot.
 
 ## How it works:
 Basically, stereo matching with intensity threshold.
